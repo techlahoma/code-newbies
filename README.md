@@ -36,7 +36,7 @@ This repo is intended to go beyond "just now learning" and become a valuable res
 Therefore, you can consider yourself part of the target audience if you meet either of the following criteria:
 
 - Learning a new progamming language or framework
-- Learning a skill related to a career in software development inlcuding, but not limited to:
+- Learning a skill related to a career in software development including, but not limited to:
   - Career development skills such as writing effective resumes, searching for a software development job, and networking
   - Building and showcasing a portfolio
   - Writing efficient code
@@ -47,7 +47,7 @@ Since a career in software development is such a broad topic, this criteria is m
 
 #### What is a Code Newbie?
 
-The Techlahoma code-newbies slack channel lists it's description as:
+The Techlahoma code-newbies slack channel lists its description as:
 
 > For new people who are just now learning what coding is and for the more experienced mentors to help them on their journey.
 
@@ -61,7 +61,7 @@ This definition is intentionally vague, and it should make more sense after read
 
 #### Code Newbie vs Early Career Developer
 
-The main reason for making this distinction is due to the way Techlahoma and it's slack are structured. This distinction is an effort to provide complete newcomers a safe place to ask questions.
+The main reason for making this distinction is due to the way Techlahoma and its slack are structured. This distinction is an effort to provide complete newcomers a safe place to ask questions.
 
 The `#code-newbies` channel is meant to be a landing point for those who are completely new and are looking for direction, while more specific channels such as `#jobs-talk` and `#javascript` are meant to field technical questions*. 
 
