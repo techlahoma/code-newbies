@@ -29,7 +29,7 @@ This repo is intended to provide the following for code newbies:
   - **Note: Please take a look at [the contribution guidelines](CONTRIBUTING.md). These help keep the repo organized and will provide more information about how this process works.**
 - A place to share your unique experiences on your journey to becoming a software developer
 
-### Who can benefit from this repo
+### Who can benefit from this repo?
 
 This repo is intended to go beyond "just now learning" and become a valuable resource for everybody who is learning or trying to improve themselves and/or their career.
 
@@ -66,7 +66,7 @@ The main reason for making this distinction is due to the way Techlahoma and its
 The `#code-newbies` channel is meant to be a landing point for those who are completely new and are looking for direction, while more specific channels such as `#jobs-talk` and `#javascript` are meant to field technical questions*. 
 
 
-> **IMPORTANT: The two are NOT mutually exclusive. This is merely an attempt to separate broad, general information from more specific, technical information**
+> **IMPORTANT: The two are NOT mutually exclusive. This is merely an attempt to separate broad, general information from more specific, technical information.**
 
 **Refer to [Slack Ettiquette](#slack-ettiquette) for more details*
 
