@@ -16,7 +16,7 @@ This repo merely serves as a reference point. The path to becoming a software de
     - [What is a Code Newbie?](#what-is-a-code-newbie)
     - [What is an Early Career Developer?](#what-is-an-early-career-developer)
     - [Code Newbie vs Early Career Developer](#code-newbie-vs-early-career-developer)
-- [Slack Ettiquette](#slack-ettiquette)
+- [Slack Etiquette](#slack-etiquette)
 - [Resources](#resources)
 - [Contacts](#contacts)
 
@@ -68,9 +68,9 @@ The `#code-newbies` channel is meant to be a landing point for those who are com
 
 > **IMPORTANT: The two are NOT mutually exclusive. This is merely an attempt to separate broad, general information from more specific, technical information.**
 
-**Refer to [Slack Ettiquette](#slack-ettiquette) for more details*
+**Refer to [Slack Etiquette](#slack-etiquette) for more details*
 
-## Slack Ettiquette
+## Slack Etiquette
 
 ## Resources
 
