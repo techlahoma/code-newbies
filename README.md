@@ -68,6 +68,8 @@ The #code-newbies channel is meant to be a landing point for those who are compl
 
 **Refer to [Slack Etiquette](#slack-etiquette) for more details**
 
+## Slack Etiquette
+
 ## Resources
 
 ## Contacts
